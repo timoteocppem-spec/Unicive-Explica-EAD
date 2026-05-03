@@ -9,8 +9,7 @@
 const tutoriais = {
     1: {
         titulo: 'Como usar a plataforma EAD',
-        videoId: <iframe width="560" height="315" src="https://www.youtube.com/embed/7QU1nvuxaMA?si=rpi5hlohuHt9E6qx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    },
+        videoId: 'COLE_O_ID_2'
     2: {
         titulo: 'Como conferir a área financeira',
         videoId: 'COLE_O_ID_2'
