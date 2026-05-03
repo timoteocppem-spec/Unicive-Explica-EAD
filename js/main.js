@@ -9,7 +9,7 @@
 const tutoriais = {
     1: {
         titulo: 'Como usar a plataforma EAD',
-        videoId: 'COLE_O_ID_1'
+        videoId: '7QU1nvuxaMA'
     },
     2: {
         titulo: 'Como conferir a área financeira',
