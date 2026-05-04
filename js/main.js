@@ -13,11 +13,11 @@ const tutoriais = {
     },
     2: {
         titulo: 'Como conferir a área financeira',
-        videoId: 'COLE_O_ID_2'
+        videoId: 'BhQXX_C3rzc'
     },
     3: {
         titulo: 'Como conferir o reconhecimento pelo MEC',
-        videoId: 'COLE_O_ID_3'
+        videoId: 'XfulL0Qpsb4'
     },
     4: {
         titulo: 'Como preencher o formulário de matrícula',
